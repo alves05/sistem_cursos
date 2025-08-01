@@ -10,7 +10,7 @@ A aplicação possui uma **interface interativa em Streamlit**, permitindo ao us
 
 
 ## Tecnologias Utilizadas
-- **Python 3.9+**
+- **Python 3.12+**
 - **Pandas** – Manipulação de dados
 - **Scikit-learn** – Modelo de Machine Learning (Random Forest)
 - **Streamlit** – Interface web
