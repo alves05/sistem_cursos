@@ -1,0 +1,101 @@
+titulo,categoria,avaliacoes,rating,nivel,alunos,duracao_semanas,recomendado
+Reinforcement Learning #1,Machine Learning,10069,4.6,Avançado,30207,5,1
+Deep Learning Foundations #2,Deep Learning,76875,4.8,Intermediário,230625,4,1
+Applied Data Science #3,Ciencia de Dados,91863,4.4,Intermediário,367452,7,1
+Deep Learning Foundations #4,Deep Learning,80646,4.3,Intermediário,80646,7,0
+CNN and RNN #5,Deep Learning,46388,4.7,Intermediário,46388,3,1
+Java Essentials #6,Programacao,28740,4.8,Intermediário,143700,4,1
+Java Essentials #7,Programacao,29052,4.8,Intermediário,58104,6,1
+Machine Learning Basics #8,Machine Learning,35014,4.8,Intermediário,35014,11,1
+Supervised Learning #9,Machine Learning,64371,4.8,Intermediário,257484,8,1
+Reinforcement Learning #10,Machine Learning,34434,4.6,Intermediário,68868,6,1
+Supervised Learning #11,Machine Learning,103074,4.7,Iniciante,412296,10,1
+ML with Python #12,Machine Learning,11650,4.4,Iniciante,58250,10,1
+Data Science Fundamentals #13,Ciencia de Dados,90477,4.4,Avançado,361908,7,0
+CNN and RNN #14,Deep Learning,55852,4.3,Avançado,55852,5,0
+C++ Basics #15,Programacao,41947,4.8,Avançado,125841,12,1
+Python Programming #16,Programacao,88616,4.8,Intermediário,177232,4,1
+Deep Learning Foundations #17,Deep Learning,73290,4.8,Intermediário,293160,3,1
+CNN and RNN #18,Deep Learning,61608,4.3,Avançado,123216,6,0
+CNN and RNN #19,Deep Learning,115949,4.8,Avançado,115949,11,1
+C++ Basics #20,Programacao,1019,4.3,Avançado,1019,3,1
+Programming Foundations #21,Programacao,60751,4.8,Intermediário,121502,8,1
+Data Analysis with Python #22,Ciencia de Dados,52840,4.8,Avançado,105680,8,1
+CNN and RNN #23,Deep Learning,46788,4.7,Intermediário,140364,10,1
+Supervised Learning #24,Machine Learning,77520,4.7,Iniciante,155040,4,1
+Deep Learning Foundations #25,Deep Learning,14388,4.7,Iniciante,43164,9,1
+Neural Networks #26,Deep Learning,63029,4.4,Iniciante,189087,6,1
+Machine Learning Basics #27,Machine Learning,119182,4.8,Avançado,357546,9,1
+Applied Data Science #28,Ciencia de Dados,42512,4.6,Avançado,127536,4,1
+ML with Python #29,Machine Learning,72422,4.8,Intermediário,289688,8,1
+Reinforcement Learning #30,Machine Learning,6645,4.7,Avançado,26580,8,1
+Deep Learning Foundations #31,Deep Learning,84163,4.5,Iniciante,252489,12,0
+Data Science Fundamentals #32,Ciencia de Dados,11080,4.5,Intermediário,44320,10,1
+Deep Learning Foundations #33,Deep Learning,87888,4.5,Avançado,175776,6,1
+Java Essentials #34,Programacao,94337,4.5,Intermediário,188674,5,0
+Advanced Deep Learning #35,Deep Learning,67433,4.6,Intermediário,67433,9,1
+Java Essentials #36,Programacao,100024,4.5,Intermediário,200048,12,1
+Java Essentials #37,Programacao,100250,4.2,Iniciante,501250,4,1
+Data Analysis with Python #38,Ciencia de Dados,41377,4.9,Iniciante,82754,4,1
+Java Essentials #39,Programacao,36028,4.8,Avançado,72056,11,1
+Statistics for Data Science #40,Ciencia de Dados,74651,4.8,Iniciante,373255,6,1
+Applied Data Science #41,Ciencia de Dados,48356,4.7,Iniciante,241780,4,1
+Neural Networks #42,Deep Learning,27302,4.9,Iniciante,27302,8,1
+Programming Foundations #43,Programacao,47085,4.9,Avançado,94170,4,1
+Neural Networks #44,Deep Learning,62098,4.8,Iniciante,186294,12,1
+Reinforcement Learning #45,Machine Learning,75664,4.5,Iniciante,75664,10,0
+CNN and RNN #46,Deep Learning,80297,4.8,Iniciante,80297,11,1
+CNN and RNN #47,Deep Learning,60708,4.6,Avançado,242832,5,1
+C++ Basics #48,Programacao,68326,4.4,Iniciante,204978,11,0
+Applied Data Science #49,Ciencia de Dados,42751,4.4,Avançado,171004,5,0
+CNN and RNN #50,Deep Learning,107124,4.7,Iniciante,535620,3,1
+Data Analysis with Python #51,Ciencia de Dados,69641,4.5,Intermediário,208923,12,0
+Supervised Learning #52,Machine Learning,10155,4.9,Iniciante,40620,6,1
+Data Science Fundamentals #53,Ciencia de Dados,97670,4.7,Avançado,293010,3,1
+Programming Foundations #54,Programacao,104002,4.4,Avançado,416008,7,0
+ML with Python #55,Machine Learning,85072,4.6,Avançado,425360,6,1
+Java Essentials #56,Programacao,43163,4.5,Avançado,86326,7,1
+Reinforcement Learning #57,Machine Learning,39236,4.6,Iniciante,117708,8,1
+Programming Foundations #58,Programacao,62286,4.3,Intermediário,311430,5,1
+Deep Learning Foundations #59,Deep Learning,108592,4.8,Avançado,542960,6,1
+Deep Learning Foundations #60,Deep Learning,44964,4.2,Intermediário,89928,7,1
+Data Analysis with Python #61,Ciencia de Dados,90660,4.3,Iniciante,181320,8,1
+Programming Foundations #62,Programacao,36070,4.5,Iniciante,108210,12,0
+Deep Learning Foundations #63,Deep Learning,17298,4.5,Iniciante,34596,11,0
+Deep Learning Foundations #64,Deep Learning,53440,4.6,Iniciante,160320,4,1
+Applied Data Science #65,Ciencia de Dados,38837,4.6,Avançado,38837,10,1
+Deep Learning Foundations #66,Deep Learning,100041,4.5,Intermediário,300123,10,0
+C++ Basics #67,Programacao,11812,4.8,Avançado,47248,3,1
+Statistics for Data Science #68,Ciencia de Dados,23083,4.7,Intermediário,46166,8,1
+Python Programming #69,Programacao,2166,4.8,Iniciante,10830,7,1
+C++ Basics #70,Programacao,54048,4.5,Iniciante,108096,6,1
+Supervised Learning #71,Machine Learning,43369,4.6,Iniciante,86738,12,1
+ML with Python #72,Machine Learning,12859,4.4,Iniciante,64295,5,1
+Machine Learning Basics #73,Machine Learning,92721,4.4,Iniciante,92721,3,1
+Supervised Learning #74,Machine Learning,85509,4.4,Intermediário,171018,9,0
+CNN and RNN #75,Deep Learning,104505,4.8,Iniciante,104505,5,1
+Python Programming #76,Programacao,69044,4.3,Iniciante,138088,3,0
+CNN and RNN #77,Deep Learning,60035,4.2,Intermediário,60035,7,1
+Java Essentials #78,Programacao,100221,4.7,Intermediário,300663,7,1
+Advanced Deep Learning #79,Deep Learning,47515,4.4,Intermediário,47515,4,0
+Statistics for Data Science #80,Ciencia de Dados,17339,4.2,Avançado,34678,6,1
+Reinforcement Learning #81,Machine Learning,13040,4.9,Avançado,52160,6,1
+CNN and RNN #82,Deep Learning,14929,4.7,Iniciante,74645,11,1
+Python Programming #83,Programacao,73660,4.7,Iniciante,294640,5,1
+ML with Python #84,Machine Learning,30362,4.2,Intermediário,121448,5,1
+ML with Python #85,Machine Learning,19709,4.8,Intermediário,98545,5,1
+Java Essentials #86,Programacao,78417,4.7,Intermediário,78417,8,1
+ML with Python #87,Machine Learning,88345,4.6,Intermediário,265035,6,1
+Machine Learning Basics #88,Machine Learning,20168,4.7,Avançado,100840,10,1
+Applied Data Science #89,Ciencia de Dados,116374,4.4,Iniciante,116374,12,0
+C++ Basics #90,Programacao,5369,4.7,Intermediário,26845,11,1
+Deep Learning Foundations #91,Deep Learning,119077,4.8,Iniciante,357231,10,1
+Machine Learning Basics #92,Machine Learning,94702,4.3,Iniciante,378808,4,0
+Machine Learning Basics #93,Machine Learning,73847,4.4,Intermediário,73847,10,0
+Reinforcement Learning #94,Machine Learning,106305,4.4,Avançado,212610,3,0
+CNN and RNN #95,Deep Learning,64043,4.3,Intermediário,128086,8,0
+Statistics for Data Science #96,Ciencia de Dados,46880,4.7,Avançado,140640,3,1
+Data Science Fundamentals #97,Ciencia de Dados,35968,4.4,Intermediário,35968,6,0
+Statistics for Data Science #98,Ciencia de Dados,21547,4.6,Avançado,43094,5,1
+Data Analysis with Python #99,Ciencia de Dados,44170,4.8,Iniciante,220850,5,1
+Applied Data Science #100,Ciencia de Dados,22773,4.3,Avançado,45546,12,0
