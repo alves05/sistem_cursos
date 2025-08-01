@@ -84,14 +84,15 @@ O dataset `cursos_coursera.csv` contém informações de cursos fictícios do Co
 
 **Colunas do dataset:**
 
+|Colunas|Conteúdo|
 |---|---|
-|`titulo`| Nome do curso|
-|`categoria`| Área do curso|
-|`nivel`| Básico, Intermediário, Avançado|
-|`duracao_semanas`| Quantidade de semanas do curso|
-|`rating`| Avaliação média do curso|
-|`alunos`| Número de alunos inscritos|
-|`recomendado`| Variável alvo usada para treinar o modelo (1 = recomendado, 0 = não recomendado)|
+|`titulo`|Nome do curso|
+|`categoria`|Área do curso|
+|`nivel`|Básico, Intermediário, Avançado|
+|`duracao_semanas`|Quantidade de semanas do curso|
+|`rating`|Avaliação média do curso|
+|`alunos`|Número de alunos inscritos|
+|`recomendado`|Variável alvo usada para treinar o modelo (1 = recomendado, 0 = não recomendado)|
 
 
 ## Próximos Passos

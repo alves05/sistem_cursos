@@ -16,7 +16,7 @@ show_graphs(recommender.df)
 # Filtros principais
 categoria, nivel, duracao_max = main_filters(recommender.df)
 
-# Novo seletor de curso
+# Seletor de curso
 curso_selecionado = course_selector(recommender.df)
 
 # Campo de busca
